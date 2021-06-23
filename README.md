@@ -6,15 +6,15 @@ Ever forget your Wi-Fi password?
 Run this batch file in **Windows PowerShell** or **Windows Terminal** to list all saved Wi-Fi SSIDs and passwords.
 
 ### Supported in:
-Windows PowerShell
+- Windows PowerShell
 
-Windows Terminal
+- Windows Terminal
 
 ### Not supported in:
-*Bash
+- Bash
 
-Linux Terminal
+- Linux Terminal
 
-MacOS Terminal
+- MacOS Terminal
 
-Windows Command Prompt*
+- Windows Command Prompt
