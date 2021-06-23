@@ -8,10 +8,16 @@ $id = $x[$x.length - 1]
 
 $val = (netsh wlan show profile $id key=clear)
 
-$key = $val[32]
 $ssid = $val[10]
-echo $ssid
-echo $key
-}
+$key = $val[32]
 
-pause
+echo "Wi-Fi SSID:"
+echo $ssid
+echo "Password / PSK:"
+if ($key -eq "")
+{echo "No PSK. SSID is OPEN."}
+else
+{echo $key}
+
+echo " "
+}
