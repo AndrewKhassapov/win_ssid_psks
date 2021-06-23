@@ -7,10 +7,14 @@ Run this batch file in **Windows PowerShell** or **Windows Terminal** to list al
 
 ### Supported in:
 Windows PowerShell
+
 Windows Terminal
 
 ### Not supported in:
 *Bash
+
 Linux Terminal
+
 MacOS Terminal
+
 Windows Command Prompt*
