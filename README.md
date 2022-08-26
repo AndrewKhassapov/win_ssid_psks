@@ -8,7 +8,7 @@ Run this batch file in **Windows PowerShell** or **Windows Terminal** to list al
 ### Supported in:
 - Windows PowerShell
 
-- Windows Terminal
+- Windows Terminal (with default PowerShell)
 
 ### Not supported in:
 - Bash
