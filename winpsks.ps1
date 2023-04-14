@@ -1,4 +1,4 @@
-echo "See all WLAN SSIDs and PSKs:"
+echo "See all previous and existing Wi-Fi connections with passwords:"
 
 $all = (netsh wlan show profiles)
 
@@ -25,3 +25,5 @@ echo " "
 }
 
 }
+
+pause
