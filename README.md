@@ -14,23 +14,22 @@ Or, copy and paste everything from winpsks.ps1 into **Windows PowerShell**.
 
 ### :computer: Output example:
 
-<div style="background-color: darkblue; color: white; font-weight: bold;">
+<pre style="background-color: darkblue; color: white; font-weight: bold;">
 Wi-Fi SSID:
     SSID name              : "Wi-believe-I-can-Fi"
 Password / PSK:
     Key Content            : Take-it-from-a-former-network-engineer
 
 Wi-Fi SSID:
-SSID name : "Thats-what-she-SSID"
+    SSID name              : "Thats-what-she-SSID"
 Password / PSK:
-Key Content : AVOID-SPACES
+    Key Content            : AVOID-SPACES
 
 Wi-Fi SSID:
-SSID name : "Where-the-wild-pings-are"
+    SSID name              : "Where-the-wild-pings-are"
 Password / PSK:
-Key Content : in-your-SSID-or-PSK
-
-</div>
+    Key Content            : in-your-SSID-or-PSK
+</pre>
 
 Connect to you Wi-Fi using the "Key Content" as the password.
 
