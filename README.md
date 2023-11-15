@@ -41,6 +41,8 @@ Connect to you Wi-Fi using the "Key Content" as the password.
 
 ### :x: Not supported in: :
 
+- Windows Command Prompt
+
 - Bash
 
 - Linux Terminal
@@ -48,9 +50,4 @@ Connect to you Wi-Fi using the "Key Content" as the password.
 - MacOS Terminal
 
 > [!NOTE]
-> Highlights
-
-> [!NOTE]
 > PSK is accessible via: Launchpad > Other > Keychain Access > [WI-FI SSID] > Show Password
-
-- Windows Command Prompt
