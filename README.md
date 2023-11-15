@@ -47,4 +47,7 @@ Connect to you Wi-Fi using the "Key Content" as the password.
 
 - MacOS Terminal
 
+  > [!NOTE]
+  > PSK is accessible via: Launchpad > Other > Keychain Access > [WI-FI SSID] > Show Password
+
 - Windows Command Prompt
