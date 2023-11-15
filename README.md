@@ -1,8 +1,8 @@
-# win_ssid_psks
+# Show all Wi-Fi passwords
 
-## Show all Wi-Fi passwords
+### win_ssid_psks
 
-## Batch script for Windows that prints all saved Wi-Fi SSIDs (Service Set Identifiers) and PSKs (Pre-Shared Keys).
+### Batch script for Windows that prints all saved Wi-Fi SSIDs (Service Set Identifiers) and PSKs (Pre-Shared Keys).
 
 Ever forget your Wi-Fi password? 📶
 
